@@ -5,7 +5,7 @@ h = [1,2,3,4]
 i = 0
 
 # for i in h:
-#     print(i)
+#     print(i)hh
 
 while i<len(h):
     print(h[i])
